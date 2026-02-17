@@ -1,0 +1,8 @@
+{
+  "name": "GPT-5 WebForge Pro Max",
+  "description": "The ultimate AI-driven web orchestration platform. Design, refine, and deploy professional websites using advanced GPT-5 level synthesis and full asset integration.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
